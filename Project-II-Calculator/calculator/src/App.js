@@ -23,6 +23,12 @@ const App = () => {
             </div>
 
             <div className='right-btn-group'>
+               <NumberButton buttonStyle='function-button' number='-'/>
+               <NumberButton buttonStyle='function-button' number='x'/>
+               <NumberButton buttonStyle='function-button' number='-'/>
+               <NumberButton buttonStyle='function-button' number='+'/>
+               <NumberButton buttonStyle='function-button' number='='/>
+               
             </div>
        </div>
     </div>

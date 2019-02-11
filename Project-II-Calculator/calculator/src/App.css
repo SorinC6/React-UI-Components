@@ -15,3 +15,9 @@
    display:flex;
    flex-wrap: wrap;
 }
+
+.right-btn-group{
+   display:flex;
+   flex-direction: column;
+   width: 25%;
+}

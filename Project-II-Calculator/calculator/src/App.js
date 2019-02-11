@@ -9,6 +9,7 @@ const App = () => {
        <Display/>
        <div className='button-group'>
             <div className='left-btn-group'> 
+                  <NumberButton buttonStyle='clear-style' number='clear'/> 
                  <NumberButton buttonStyle='number-style' number='7'/>
                  <NumberButton buttonStyle='number-style' number='8'/>
                  <NumberButton buttonStyle='number-style' number='9'/>
@@ -18,6 +19,7 @@ const App = () => {
                  <NumberButton buttonStyle='number-style' number='1'/>
                  <NumberButton buttonStyle='number-style' number='2'/>
                  <NumberButton buttonStyle='number-style' number='3'/>
+                 <NumberButton buttonStyle='clear-style' number='0'/> 
             </div>
 
             <div className='right-btn-group'>

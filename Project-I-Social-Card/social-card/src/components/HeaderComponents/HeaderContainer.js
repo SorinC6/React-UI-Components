@@ -15,3 +15,5 @@ const HeaderContainer = () => {
      </div>
    )
 }
+
+export default HeaderContainer;

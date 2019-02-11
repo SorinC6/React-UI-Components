@@ -6,6 +6,9 @@ const HeaderTitle = () => (
 		<h1 className='header-text'>
 			Lambda School <span className='header-time'>@LambdaSchool - 26 jan</span>
 		</h1>
+      <span>
+         
+      </span>
 	</div>
 );
 

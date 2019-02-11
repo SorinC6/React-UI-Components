@@ -1,7 +1,40 @@
 /* All styles for your Card Components live here */
 
-.banner{
-   width:91%;
-   margin:0 50px;
+.banner {
+   width: 91%;
+   margin: 0 50px;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   margin-bottom: 0;
+}
 
+.card {
+   border-radius: 10px;
+}
+
+.card-container {
+   border: 1px solid rgb(218, 223, 228);
+   border-radius: 10px;
+   border-top: none;
+   margin-right: 10px;
+   margin-left: 50px;
+   margin-top:0;
+   padding: 0 20px;
+}
+
+.card-h1 {
+   font-size: 16px;
+   margin-bottom: 6px;
+   margin-top:0;
+}
+
+.card-p {
+   margin-top: 0;
+   margin-bottom: 6px;
+}
+
+.react-url {
+   font-size: 16px;
+   color: grey;
+   margin-top: 0;
 }

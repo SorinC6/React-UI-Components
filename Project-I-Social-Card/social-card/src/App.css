@@ -3,10 +3,10 @@
   IF you'd like to attempt to use less you'll have to research how to do this with Create React App
 */
 
-.main-container{
-   width:700px;
+.main-container {
+   width: 700px;
    height: auto;
-   margin:0 auto;
-   margin-top:60px;
-   border:1px solid black;
+   margin: 0 auto;
+   margin-top: 60px;
+   border: 1px solid black;
 }

@@ -1,0 +1,17 @@
+
+.calculator{
+   max-width:400px;
+   margin:0 auto;
+   border-style: double;
+}
+
+.button-group{
+   width: 100%;
+   display:flex;
+}
+
+.left-btn-group{
+   width:75%;
+   display:flex;
+   flex-wrap: wrap;
+}

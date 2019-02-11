@@ -1,0 +1,12 @@
+.number-style{
+   width:32.67%;
+   font-size:40px;
+   padding:20px 0 20px 0;
+   border: 1px solid lightgray;
+   text-align: center;
+   font-weight: 700;
+}
+
+.clear-style{
+   padding:20px 70px;
+}

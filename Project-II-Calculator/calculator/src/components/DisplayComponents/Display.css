@@ -5,9 +5,8 @@
    border-style: double;
    font-size: 70px;
    padding:5px;
+   padding-right: 10px;
    background: black;
    color:white;
    text-align: end;
-   margin:0 auto;
-   margin-top:40px;
 }

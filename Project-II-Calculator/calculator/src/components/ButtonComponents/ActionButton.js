@@ -1,13 +1,12 @@
 import React from 'react';
 import './Button.css';
 
+const ActionButton = (props) => {
+	return (
+		<button onClick={props.handler} className={props.buttonStyle}>
+			{props.sign}
+		</button>
+	);
+};
 
-class ActionButton extends Component {
-   render() {
-      <button>
-         className={this.props.btn=action}
-         onClick={() => this.props.click(this.props.number)}
-      </button>
-   }
- 
-}   
+export default ActionButton;

@@ -1,0 +1,30 @@
+.number-style{
+   width:32.67%;
+   font-size:40px;
+   padding:20px 0 20px 0;
+   border: 1px solid lightgray;
+   text-align: center;
+   font-weight: 700;
+}
+
+.clear-style{
+   width:98%;
+   font-size:40px;
+   padding:20px 0 20px 0;
+   border: 1px solid lightgray;
+   text-align: center;
+   font-weight: 700;
+}
+
+.function-button{
+   width:100%;
+   background-color: rgb(160, 1, 30);
+   color:white;
+   text-align: center;
+   font-size: 40px;
+   padding: 20px 0 20px 0;
+   border-left:1px solid lightgray;
+   border-right:2px solid gray;
+   border-top:1px solid gray;
+   border-bottom: 1px solid gray;
+}
